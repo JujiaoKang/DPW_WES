@@ -13,18 +13,24 @@ This repository contains the code for performing analysis in the DPW_WES project
 ## System Requirements
 
 This package is supported for Linux. The package has been tested on the following systems:
+
 Linux: x86_64 GNU/Linux
+
 LSB Version:	:core-4.1-amd64:core-4.1-noarch
+
 Distributor ID:	CentOS
+
 Description:	CentOS Linux release 7.9.2009 (Core)
+
 Release:	7.9.2009
+
 Codename:	Core
 
 R version: R/4.1.0
 
 ### R dependencies
-Descibed in each R script.
 
+The required R dependencies for each script are described within the respective R script files. Make sure to install the necessary packages before running the code.
 
 ## Exome-Wide Association Study (ExWAS)
 
