@@ -84,5 +84,5 @@ To analyze single-cell RNA expression data, run the `scRNAliver.R` script:
 $ Rscript scRNAliver.R 
 ```
 ## License
-This project is covered under the Apache 2.0 License.
+This project is covered under the MIT License.
 
