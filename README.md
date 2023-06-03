@@ -7,6 +7,7 @@ This repository contains the code for performing analysis in the DPW_WES project
 - [Exome-Wide Association Study (ExWAS)](#exome-wide-association-study-exwas)
 - [Burden Heritability Regression (BHR)](#burden-heritability-regression-bhr)
 - [Expression Analysis](#expression-analysis)
+- [License](#License)
 
 ## Exome-Wide Association Study (ExWAS)
 
@@ -59,4 +60,6 @@ To analyze single-cell RNA expression data, run the `scRNAliver.R` script:
 ```shell
 $ Rscript scRNAliver.R 
 ```
+## License
+This project is covered under the Apache 2.0 License.
 
