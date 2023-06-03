@@ -4,10 +4,27 @@ This repository contains the code for performing analysis in the DPW_WES project
 
 ## Table of Contents
 
+- [System Requirements](#system-requirements)
 - [Exome-Wide Association Study (ExWAS)](#exome-wide-association-study-exwas)
 - [Burden Heritability Regression (BHR)](#burden-heritability-regression-bhr)
 - [Expression Analysis](#expression-analysis)
-- [License](#License)
+- [License](#license)
+
+## System Requirements
+
+This package is supported for Linux. The package has been tested on the following systems:
+Linux: x86_64 GNU/Linux
+LSB Version:	:core-4.1-amd64:core-4.1-noarch
+Distributor ID:	CentOS
+Description:	CentOS Linux release 7.9.2009 (Core)
+Release:	7.9.2009
+Codename:	Core
+
+R version: R/4.1.0
+
+### R dependencies
+Descibed in each R script.
+
 
 ## Exome-Wide Association Study (ExWAS)
 
